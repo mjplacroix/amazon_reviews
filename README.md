@@ -1,6 +1,6 @@
 # Amazon Reviews Analysis
 
-[This Jupyter notebook](holding) is a visual data analysis investigating a handful of correlations across product categories in [this dataset](http://deepyeti.ucsd.edu/jianmo/amazon/index.html) of 230 million Amazon reviews. 
+[This Jupyter notebook](https://github.com/mjplacroix/amazon_reviews/blob/master/visual_data_analysis.ipynb) is a visual data analysis investigating a handful of correlations across product categories in [this dataset](http://deepyeti.ucsd.edu/jianmo/amazon/index.html) of 230 million Amazon reviews. 
 
 
 The following are a series of draft notebook I used for EDA (exploratory data analysis). Many pieces of the functions in the above notebook were drafted in these. 
